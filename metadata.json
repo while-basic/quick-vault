@@ -1,0 +1,8 @@
+{
+  "name": "Chronos Vault",
+  "description": "A secure, AI-enhanced time capsule application that lets you lock messages and media for your future self.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
